@@ -106,7 +106,7 @@ Updates a book's title and/or author.
 **Request:** `PUT /books/102`
 ```json
 {
-  "title": "Atomic Habits (Updated Edition)"
+  "title": "Atomic Habits (revised version)"
 }
 ```
 
