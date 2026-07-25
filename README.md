@@ -133,4 +133,4 @@ Deletes a book by ID.
 
 ## Notes
 - No database is used; all data is stored in memory and resets when the server restarts.
-- Built and tested using Thunder Client / browser for GET requests.
+- Built and tested using Thunder Client for GET requests.
